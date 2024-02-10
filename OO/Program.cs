@@ -1,0 +1,2 @@
+﻿AutenticaçãoSimples.Executar();
+AutenticaçãoComPadroesdeProjeto.Executar();
